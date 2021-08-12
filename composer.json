@@ -1,0 +1,13 @@
+{
+    "require": {
+        "monolog/monolog": "1.25.1",
+        "illuminate/events": "^8.54",
+        "illuminate/database": "^8.54"
+    },
+    "type": "project",
+    "autoload": {
+    "psr-4": {
+        "App\\": "App/"
+    }
+}
+}
